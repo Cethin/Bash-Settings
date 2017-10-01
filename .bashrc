@@ -120,7 +120,7 @@ fi
 alias tailunity='tail -f ~/../../mnt/c/Users/"Luke Smith"/AppData/Local/Unity/Editor/Editor.log'
 
 # Setuo alias to connect to zeus
-alias zeus="lsmith50@zeus.ite.gmu.edu"
+alias zeus="ssh lsmith50@zeus.ite.gmu.edu"
 
 # Setup SSH Agent
 eval $(ssh-agent)
